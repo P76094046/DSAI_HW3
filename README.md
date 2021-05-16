@@ -7,13 +7,13 @@
 
 
 ### Model: LSTM
-
-
+- 用兩個模型分別訓練 generation 和 consumption。
 
 
 
 ### Bidding strategy
-
+- 如果預測出來 generation >= consumption，那就用3元賣電。
+- 如果預測出來 generation < consumption，那就用2.5元買電。
 
 
 
