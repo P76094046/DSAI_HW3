@@ -8,6 +8,8 @@
 
 ### Model: LSTM
 - 用兩個模型分別訓練 generation 和 consumption。
+- 使用 168 筆資料預測 1 筆
+- 參數：hidden_dim = 16, num_layers = 2, batch_size = 16, num_epochs = 50
 
 
 
