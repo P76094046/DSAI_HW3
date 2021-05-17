@@ -1,6 +1,6 @@
 # DSAI_HW3
 ### 說明
-需下載 model.hdf5 和 model2.hdf5 和 main.py 放於同一資料夾，執行 
+需下載 model.hdf5 和 model2.hdf5 和 main.py 放於同一資料夾，到該資料夾後執行 
 ```
 python main.py --generation generation.csv --consumption consumption.csv --output output.csv
 ```
