@@ -1,5 +1,5 @@
 # DSAI_HW3
-
+### 說明
 需下載 model.hdf5 和 model2.hdf5，執行 python main.py --generation generation.csv --consumption consumption.csv --output output.csv
 (training.py 為訓練模型的檔案)
 
