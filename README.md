@@ -1,6 +1,7 @@
 # DSAI_HW3
 
 需下載 model.hdf5 和 model2.hdf5，執行 python main.py --generation generation.csv --consumption consumption.csv --output output.csv
+(training.py 為訓練模型的檔案)
 
 ### Data preprocessing 
 - 首先計算全部 50 個 target 資料 generation 以及 consumption 兩者的平均值和標準差。
