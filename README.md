@@ -1,4 +1,6 @@
-# DSAI_HW3
+# 
+Goal: Design an agent for bidding power to minimize your electricity bill!
+
 ### 說明
 需下載 model.hdf5 和 model2.hdf5 和 main.py 放於同一資料夾，到該資料夾後執行 
 ```
